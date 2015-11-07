@@ -19,7 +19,7 @@ To understand the full effectiveness of the design pattern, create 10,000 Orcs a
 Maintenance History
 ===================
 Nov 6th: Documentation and Code beautification.    
-Oct 3rd: Overloaded toString() method to show the shared classes use the same object.    
+Oct 3rd: Overloaded object toString() method to show the shared classes use the same object.    
 Oct 2nd: Skeleton Code.    
   
 How to Run this project
